@@ -3,7 +3,8 @@
 🎓 B.Voc IT & ITES (2023–2026)  
 💻 MERN Stack Developer | 🎬 React Front-End Developer  
 
-I'm passionate about crafting modern, responsive web experiences and building full-stack applications that are both efficient and user-friendly. I enjoy working across the stack and continuously learning tools that help bring great ideas to life.
+I'm passionate about crafting modern, responsive web experiences and building full-stack applications that are both efficient and user-friendly. I enjoy working across the stack and continuously learning tools that help bring great ideas to life.  
+**Currently working on self-projects using the MERN stack to sharpen my development skills.**
 
 ---
 
@@ -37,18 +38,11 @@ I'm passionate about crafting modern, responsive web experiences and building fu
 
 ## 🔭 Projects
 - 🎥 **CineSpot** – Movie & Series platform showing Trending, Upcoming, Popular & Top Rated titles  
-  _[Visit Repo](https://github.com/Krutarth-Raval/CineSpot)_
+  _[Visit Repo](https://github.com/Krutarth-Raval/CineSpot)_  
   _[Visit Live](https://cinemaspot.netlify.app/)_
 
 - 🦇 **BatCave Website** – Batman-themed UI  
   _[Visit Live](https://batmancave.netlify.app/)_
-
----
-
-## 📈 GitHub Stats
-
-![Krutarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krutarth-Raval&show_icons=true&theme=github_dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krutarth-Raval&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
