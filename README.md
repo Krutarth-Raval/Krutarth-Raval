@@ -55,7 +55,7 @@ I'm passionate about crafting modern, responsive web experiences and building fu
 
 - ✉️ Email: [ravalkrutarth95@gmail.com](mailto:ravalkrutarth95@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/krutarth-raval/)  
-- 📸 [Instagram](https://www.instagram.com/krutarth_raval/)
+- 📸 [Instagram](https://www.instagram.com/raval_krutarth/)
 
 ---
 
