@@ -38,6 +38,7 @@ I'm passionate about crafting modern, responsive web experiences and building fu
 ## 🔭 Projects
 - 🎥 **CineSpot** – Movie & Series platform showing Trending, Upcoming, Popular & Top Rated titles  
   _[Visit Repo](https://github.com/Krutarth-Raval/CineSpot)_
+  _[Visit Live](https://cinemaspot.netlify.app/)_
 
 - 🦇 **BatCave Website** – Batman-themed UI  
   _[Visit Live](https://batmancave.netlify.app/)_
@@ -54,7 +55,7 @@ I'm passionate about crafting modern, responsive web experiences and building fu
 ## 📫 Reach Me
 
 - ✉️ Email: [ravalkrutarth95@gmail.com](mailto:ravalkrutarth95@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/krutarth-raval/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/raval-krutarth/)  
 - 📸 [Instagram](https://www.instagram.com/raval_krutarth/)
 
 ---
