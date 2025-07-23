@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Krutarth Raval
 
-🎓 B.Voc IT & ITES (2023–2026)  
-💻 MERN Stack Developer | 🎬 React Front-End Developer  
+ B.Voc IT & ITES (2023–2026)  
+ MERN Stack Developer | React Front-End Developer  
 
 I'm passionate about crafting modern, responsive web experiences and building full-stack applications that are both efficient and user-friendly. I enjoy working across the stack and continuously learning tools that help bring great ideas to life.  
 **Currently working on self-projects using the MERN stack to sharpen my development skills.**
