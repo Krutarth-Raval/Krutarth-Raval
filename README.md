@@ -1,58 +1,89 @@
-# 👋 Hey, I'm Krutarth Raval
+# 👋 Krutarth Raval  
+**Full-stack MERN Developer | Modern Web Application Builder**
 
- B.Voc IT & ITES (2023–2026)  
- MERN Stack Developer | React Front-End Developer  
+I build modern, scalable, and user-focused web applications using the MERN stack.  
+My focus is on clean UI, structured code, and real-world product thinking rather than just features.
 
-I'm passionate about crafting modern, responsive web experiences and building full-stack applications that are both efficient and user-friendly. I enjoy working across the stack and continuously learning tools that help bring great ideas to life.  
-**Currently working on self-projects using the MERN stack to sharpen my development skills.**
-
----
-
-## 🚀 Tech Stack
-
-### ⚙️ Languages & Libraries  
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge" />
-</p>
-
-### 🛠️ Backend & Tools  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-000000?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=for-the-badge" />
-</p>
+📍 Gujarat, India  
+📧 Email: ravalkrutarth95@gmail.com  
+🌐 Portfolio: https://krutarthraval.netlify.app  
+📸 Instagram: https://instagram.com/raval_krutarth  
 
 ---
 
-## 🔭 Projects
-- 🎥 **CineSpot** – Movie & Series platform showing Trending, Upcoming, Popular & Top Rated titles  
-  _[Visit Repo](https://github.com/Krutarth-Raval/CineSpot)_  
-  _[Visit Live](https://cinemaspot.netlify.app/)_
+## ✨ Developer Profile
 
-- 🦇 **BatCave Website** – Batman-themed UI  
-  _[Visit Live](https://batmancave.netlify.app/)_
-
----
-
-## 📫 Reach Me
-
-- ✉️ Email: [ravalkrutarth95@gmail.com](mailto:ravalkrutarth95@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/raval-krutarth/)  
-- 📸 [Instagram](https://www.instagram.com/raval_krutarth/)
-- 📸 [portfolio](https://krutarthraval.netlify.app)
+- Full-stack MERN developer with a strong frontend focus  
+- 1 year of professional development experience   
+- Experience building real-world projects with modern UI and scalable architecture  
+- Approach: Design-first thinking, clean code, and long-term maintainability  
 
 ---
 
-_Thanks for visiting my profile! ⭐_
+## ⚡ Tech Stack
+
+**Frontend**
+- React.js, Next.js 
+- Tailwind CSS, shadcn/ui
+- JavaScript (ES6+), HTML5, CSS3
+
+**Backend**
+- Node.js, Express.js, MongoDB
+- REST APIs, JWT Authentication
+
+**Tools & Platforms**
+- Git, GitHub, Postman
+- Vercel, Netlify, Render
+- Cursor, Antigravity, VS Code
+
+---
+
+## 🚀 Highlight Projects
+
+### 🗂 Task Manager — MERN Stack Application
+A full-stack task management platform designed with modern UI and scalable architecture.
+
+- Repository: https://github.com/Krutarth-Raval/Task-Manager  
+- Live Demo: (coming soon)
+
+---
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects, skills, and development journey.
+
+- Repository: https://github.com/Krutarth-Raval/Portfolio  
+- Live Demo: https://krutarthraval.netlify.app/
+
+---
+
+### 📝 Notely — Next.js + shadcn/ui
+A modern note-taking web app focused on performance, minimal design, and smooth user experience.
+
+- Repository: https://github.com/Krutarth-Raval/Notly  
+- Live Demo: https://notely-web-application.vercel.app/
+
+---
+
+### 🎬 Cinexium — Ongoing Project
+A large-scale movie and TV platform built with modern frontend and custom backend architecture.
+
+- Repository: https://github.com/Krutarth-Raval/Cinexium  
+- Status: In progress
+
+---
+
+## 📊 GitHub Insights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krutarth-Raval&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krutarth-Raval&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+- Email: ravalkrutarth95@gmail.com  
+- Instagram: https://instagram.com/raval_krutarth  
+- Portfolio: https://krutarthraval.netlify.app  
+
+---
