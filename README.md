@@ -6,7 +6,7 @@ My focus is on clean UI, structured code, and real-world product thinking rather
 
 📍 Gujarat, India  
 📧 Email: ravalkrutarth95@gmail.com  
-🌐 Portfolio: https://krutarthraval.netlify.app  
+🌐 Portfolio: https://krutarthraval.vercel.app  
 📸 Instagram: https://instagram.com/raval_krutarth  
 
 ---
