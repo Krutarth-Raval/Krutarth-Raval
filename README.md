@@ -40,11 +40,11 @@ My focus is on clean UI, structured code, and real-world product thinking rather
 
 ## 🚀 Highlight Projects
 
-### 🗂 Task Manager — MERN Stack Application
+### 🗂 Taskey — ReactJs | Laravel |
 A full-stack task management platform designed with modern UI and scalable architecture.
 
-- Repository: https://github.com/Krutarth-Raval/Task-Manager  
-- Live Demo: (coming soon)
+- Repository: https://github.com/Krutarth-Raval/Taskey  
+- Live Demo: https://taskey-eta.vercel.app
 
 ---
 
@@ -52,7 +52,7 @@ A full-stack task management platform designed with modern UI and scalable archi
 Personal portfolio showcasing projects, skills, and development journey.
 
 - Repository: https://github.com/Krutarth-Raval/Portfolio  
-- Live Demo: https://krutarthraval.netlify.app/
+- Live Demo: https://krutarthraval.vercel.app/
 
 ---
 
@@ -77,6 +77,6 @@ A large-scale movie and TV platform built with modern frontend and custom backen
 
 - Email: ravalkrutarth95@gmail.com  
 - Instagram: https://instagram.com/raval_krutarth  
-- Portfolio: https://krutarthraval.netlify.app  
+- Portfolio: https://krutarthraval.vercel.app  
 
 ---
